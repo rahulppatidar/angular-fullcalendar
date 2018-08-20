@@ -49,7 +49,7 @@ You can use the [Arshaw Fullcalendar options in official docs](https://fullcalen
             }
         ];
 		
-		//For Multiple source
+		//For Multiple source 
 		//  <div fc fc-options="calendarOptions" ng-model="eventSourceObj" ></div>
 		$scope.eventSourceObj = [
 
