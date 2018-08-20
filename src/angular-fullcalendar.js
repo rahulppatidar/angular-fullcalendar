@@ -38,7 +38,7 @@ function fcDirectiveFn(CALENDAR_DEFAULTS) {
                 
                 if(isMultiSource){
                     return angular.extend(CALENDAR_DEFAULTS,{
-                        eventSources:event_source
+                        eventSources:event_source 
                     },options);
                 }else{
                     return angular.extend(CALENDAR_DEFAULTS,{
